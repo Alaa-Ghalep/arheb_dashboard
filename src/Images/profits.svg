@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="551" height="394" viewBox="0 0 551 394">
+  <defs>
+    <filter id="background" x="0" y="0" width="551" height="394" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="270" y="93" width="211" height="142" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9797" data-name="Group 9797" transform="translate(-809.853 -582)">
+    <g transform="matrix(1, 0, 0, 1, 809.85, 582)" filter="url(#background)">
+      <rect id="background-2" data-name="background" width="539" height="382" rx="20" transform="translate(6 2)" fill="#fff"/>
+    </g>
+    <g id="horizontalLine" transform="translate(882.794 705.58)">
+      <rect id="line" width="450" transform="translate(0.059 0.42)" fill="#dcdcdc"/>
+      <rect id="line-2" data-name="line" width="450" height="1" transform="translate(0.059 39.42)" fill="#dcdcdc"/>
+      <rect id="line-3" data-name="line" width="450" height="1" transform="translate(0.059 79.42)" fill="#dcdcdc"/>
+      <rect id="line-4" data-name="line" width="450" height="1" transform="translate(0.059 119.42)" fill="#dcdcdc"/>
+      <rect id="line-5" data-name="line" width="450" transform="translate(0.059 159.42)" fill="#dcdcdc"/>
+      <rect id="line-6" data-name="line" width="450" height="1" transform="translate(0.059 198.42)" fill="#a1a1a1"/>
+    </g>
+    <g id="y-info" transform="translate(841.517 695.073)">
+      <text id="_60k" data-name="60k" transform="translate(18.336 10.927)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.78" y="0">60k</tspan></text>
+      <text id="_50k" data-name="50k" transform="translate(18.336 51.927)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.71" y="0">50k</tspan></text>
+      <text id="_40k" data-name="40k" transform="translate(18.336 91.927)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.72" y="0">40k</tspan></text>
+      <text id="_30k" data-name="30k" transform="translate(17.336 132.927)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.32" y="0">30k</tspan></text>
+      <text id="_20k" data-name="20k" transform="translate(17.336 172.927)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.18" y="0">20k</tspan></text>
+      <text id="_10k" data-name="10k" transform="translate(18.336 213.927)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-14.63" y="0">10k</tspan></text>
+    </g>
+    <g id="x-info" transform="translate(880.542 928.475)">
+      <text id="March" transform="translate(16.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-15.785" y="0">March</tspan></text>
+      <text id="Aprli" transform="translate(74.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-11.075" y="0">Aprli</tspan></text>
+      <text id="May" transform="translate(127.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-10.5" y="0">May</tspan></text>
+      <text id="June" transform="translate(181.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-12.15" y="0">June</tspan></text>
+      <text id="July" transform="translate(234.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-9.895" y="0">July</tspan></text>
+      <text id="August" transform="translate(293.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-17.58" y="0">August</tspan></text>
+      <text id="September" transform="translate(371.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="-27.83" y="0">September</tspan></text>
+      <text id="Oc.." transform="translate(431.31 10.524)" fill="#6e6e6e" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Oc..</tspan></text>
+    </g>
+    <g id="graphIncome" transform="translate(881.041 714.61)">
+      <path id="Path_132" data-name="Path 132" d="M496.926,620.633l56.352,32.457L611,507.033l45.734,88.242H712.52l60.385,53.483,83.642-87.969,77.089-.074V696.63l-436.711.074H481.665V643.077Z" transform="translate(-481.665 -507.033)" fill="#1921fa"/>
+    </g>
+    <g id="graphExpense" transform="translate(881.041 771.363)">
+      <path id="Path_132-2" data-name="Path 132" d="M496.926,680.685,549.3,569.859,611,634.787h51.131l51.615-64.929,55.215,48.7h83.423l81.252,46.458v37.695l-436.711.069H481.665V680.685Z" transform="translate(-481.665 -569.859)" fill="#ff3d3d" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="tooltip" transform="translate(1124.452 711.583)">
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(121.401 48.417)" fill="#1921fa" stroke="#fff" stroke-width="4">
+        <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+        <circle cx="11.5" cy="11.5" r="9.5" fill="none"/>
+      </g>
+      <path id="Path_133" data-name="Path 133" d="M983.5,608.952V724.369" transform="translate(-850.288 -530.937)" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="10"/>
+      <g transform="matrix(1, 0, 0, 1, -314.6, -129.58)" filter="url(#Rectangle_5)">
+        <path id="Rectangle_5-2" data-name="Rectangle 5" d="M18,0h85a18,18,0,0,1,18,18V52a0,0,0,0,1,0,0H18A18,18,0,0,1,0,34V18A18,18,0,0,1,18,0Z" transform="translate(315 130)" fill="#fff"/>
+      </g>
+      <text id="September_2020" data-name="September 2020" transform="translate(21.401 39.417)" fill="#6e6e6e" font-size="9" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">September 2020</tspan></text>
+      <text id="_41_234" data-name="$41,234" transform="translate(36.401 22.417)" fill="#393939" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">$41,234</tspan></text>
+    </g>
+    <g id="income" transform="translate(1185.992 653.796)">
+      <text id="الدخل_" data-name="الدخل " transform="translate(89.86 15.204)" fill="#393939" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">الدخل</tspan><tspan y="0" font-family="Poppins-Medium, Poppins" font-weight="500"> </tspan></text>
+      <rect id="dot" width="10" height="10" transform="translate(131.86 6.204)" fill="#1921fa"/>
+      <text id="_23_445" data-name="$23,445" transform="translate(-0.14 14.204)" fill="#393939" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">$23,445</tspan></text>
+    </g>
+    <g id="tabMenu" transform="translate(829.509 604.263)">
+      <text id="يومي" transform="translate(47.344 12.737)" fill="#6e6e6e" font-size="12" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-27.059" y="0">يومي</tspan></text>
+      <text id="أسبوعي_" data-name="أسبوعي " transform="translate(129.344 12.737)" fill="#6e6e6e" font-size="12" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-43.198" y="0">أسبوعي</tspan><tspan y="0" font-family="Poppins-Medium, Poppins" font-weight="500"> </tspan></text>
+      <text id="شهري_" data-name="شهري " transform="translate(214.344 12.737)" fill="#1921fa" font-size="12" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-32.177" y="0">شهري</tspan><tspan y="0" font-family="Poppins-Medium, Poppins" font-weight="500"> </tspan></text>
+      <rect id="line-7" data-name="line" width="226" height="1" transform="translate(0.344 25.737)" fill="#d4d4d4"/>
+      <rect id="line-8" data-name="line" width="78" height="1" transform="translate(148.344 25.737)" fill="#1921fa"/>
+    </g>
+    <text id="الارباح_" data-name="الارباح " transform="translate(1283.853 621)" fill="#3f4d5c" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">الارباح</tspan><tspan y="0"> </tspan></text>
+  </g>
+</svg>

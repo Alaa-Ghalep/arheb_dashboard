@@ -1,0 +1,47 @@
+#parentM  li a:hover{background-color: blue;}
+
+ul{margin: 0;padding: 0;}
+ul li a:hover{cursor: pointer;background-color:#F6F6F6;border-radius: 10px;}
+ul li a{border-radius: 10px;}
+
+
+/**/
+.form{
+
+    position: relative;
+}
+
+.form .fa-search{
+
+    position: absolute;
+    top:13px;
+    right:380px;
+    color: #9ca3af;
+
+}
+
+.logo{width: 7rem;}
+
+.form-input{
+
+    height: 40px;
+    text-indent: 33px;
+    border-radius: 50px;
+    width: 30vw;
+    background-color: #F6F6F6;
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+    border:none;
+    background-color: #F6F6F6;
+
+}
+.circle{
+    background: #707070;
+    border-radius: 50%;
+    width: 4vw;
+    height: 4vw;
+}
+ul li i:hover{cursor: pointer;}
